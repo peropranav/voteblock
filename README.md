@@ -7,17 +7,16 @@
 
 
 
-clone
-$ npm install
-Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance. See free video tutorial for full explanation.
+# clone
+# $ npm install
+# Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance.
 
-
-$ truffle migrate --reset
-You must migrate the election smart contract each time your restart ganache.
+# $ truffle migrate --reset
+# You must migrate the election smart contract each time your restart ganache.
 Connect metamask to your local Etherum blockchain provided by Ganache.
 Import an account provided by ganache.
 
-$ npm run dev`
+# $ npm run dev`
 
-Visit this URL in your browser: http://localhost:3000
+# Visit this URL in your browser: http://localhost:3000
 
